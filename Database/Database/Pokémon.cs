@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Database
 {
-    class Ding
+    class Pokémon
     {
-
     }
 }
