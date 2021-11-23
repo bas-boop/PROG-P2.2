@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.exe
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.pdb
+D:\MA\Bewijzenmap\Periode 2.2\PROG\Database\Database\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
