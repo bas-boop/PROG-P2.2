@@ -2,11 +2,11 @@
 
 namespace Database
 {
-    class Pokemon
+    abstract class Pokemon
     {
         private string name;
 
-        public Pokemon(string aName)
+        public Pokemon(string aName, string aType)
         {
             name = aName;
         }
@@ -14,5 +14,6 @@ namespace Database
         {
             return name;
         }
+        abstract public string GetType();
     }
 }
