@@ -5,7 +5,7 @@ namespace Database
 {
     class Pokedex
     {
-        List<Pokemon> pokemons;
+        private List<Pokemon> pokemons;
 
         public Pokedex()
         {
