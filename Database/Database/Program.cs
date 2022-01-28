@@ -39,7 +39,7 @@ namespace Database
                     name = Console.ReadLine();
                     Console.WriteLine("\nEerste type?");
                     t1 = Console.ReadLine();
-                    Console.WriteLine("\nTweede type?");
+                    Console.WriteLine("\nTweede type? Als er geen is druk dan op enter");
                     t2 = Console.ReadLine();
                     Console.WriteLine("\nEvelution state?");
                     es = Console.ReadLine();
